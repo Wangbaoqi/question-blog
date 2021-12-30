@@ -5,8 +5,7 @@ module.exports = {
   title: '前端面试题收集',
   description: '花里胡哨的面试题收集',
   head: [['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/Wangbaoqi/blogImgs@master/nateImgs/logo/logo.png' }]],
-
-
+  dest: 'public',
   
   // 主题和它的配置
   theme: '@vuepress/theme-default',
