@@ -1,7 +1,8 @@
 ---
 home: true
-heroImage: https://cdn.jsdelivr.net/gh/Wangbaoqi/blogImgs@master/nateImgs/logo/logo.gif
-tagline: 收集题目，增加深度和广度
+# heroImage: https://cdn.jsdelivr.net/gh/Wangbaoqi/blogImgs@master/nateImgs/logo/logo.gif
+heroImage: /images/hero.gif
+tagline: 收集题目，扩展深度和广度
 actionText: 开始 →
 actionLink: /frontend/html/
 

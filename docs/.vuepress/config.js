@@ -11,7 +11,7 @@ module.exports = {
   theme: '@vuepress/theme-default',
   themeConfig: {
     // logo: 'https://vuejs.org/images/logo.png',
-
+    darkMode: false,
     navbar: [
       // NavbarItem
       {
@@ -112,6 +112,28 @@ module.exports = {
         },
       ],
     },
+
+
+    plugins: [
+      [
+        '@vuepress/plugin-search',
+      ],
+    ],
+      // [
+      //   '@vuepress/docsearch',
+      //   {
+      //     apiKey: '<API_KEY>',
+      //     indexName: '<INDEX_NAME>',
+      //     locales: {
+      //       '/': {
+      //         placeholder: 'Search Documentation',
+      //       },
+      //       '/zh/': {
+      //         placeholder: '搜索文档',
+      //       },
+      //     },
+      //   },
+      // ],
   },
  
 }
