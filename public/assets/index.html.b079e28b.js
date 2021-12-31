@@ -1,0 +1,1 @@
+const t={key:"v-deb89240",path:"/frontend/html/",title:"html",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640865347e3,contributors:[{name:"Nate Wang",email:"baoqiwang@outlook.com",commits:2}]},filePathRelative:"frontend/html/README.md"};export{t as data};
