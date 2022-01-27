@@ -1,11 +1,12 @@
 ---
 home: true
-# heroImage: https://cdn.jsdelivr.net/gh/Wangbaoqi/blogImgs@master/nateImgs/logo/logo.gif
 heroImage: /images/hero.gif
 tagline: 收集题目，扩展深度和广度
-actionText: 开始 →
-actionLink: /frontend/html/
-
+actions:
+  - text: 开始 →
+    link: /frontend/html/
+    type: primary
+  
 features: # 可选的
   - title: 前端
     details: 三件套、框架、浏览器
