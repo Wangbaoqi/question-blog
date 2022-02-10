@@ -62,6 +62,9 @@ module.exports = {
             {
               text: '高度塌陷',
               link: '/frontend/css/high-collapse.md',
+            },{
+              text: 'margin折叠',
+              link: '/frontend/css/margin-collapse.md',
             }
           ],
         },
