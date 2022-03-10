@@ -46,8 +46,3 @@
 }
 ```
 
-<!-- <iframe height="300" style="width: 100%;" scrolling="no" title="BFC - 高度坍塌" src="https://codepen.io/wangbaoqi/embed/preview/oNoNaGG?default-tab=html%2Cresult&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/wangbaoqi/pen/oNoNaGG">
-  BFC - 高度坍塌</a> by wangbaoqi (<a href="https://codepen.io/wangbaoqi">@wangbaoqi</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe> -->
