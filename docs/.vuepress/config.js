@@ -65,6 +65,18 @@ module.exports = {
             },{
               text: 'margin折叠',
               link: '/frontend/css/margin-collapse.md',
+            },{
+              text: 'BFC',
+              link: '/frontend/css/BFC.md',
+            },{
+              text: '居中方案',
+              link: '/frontend/css/center.md',
+            },{
+              text: '弹性盒子',
+              link: '/frontend/css/flex.md',
+            },{
+              text: '媒体查询',
+              link: '/frontend/css/media.md',
             }
           ],
         },
