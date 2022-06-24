@@ -1,4 +1,4 @@
-## Array.prototype.indexOf
+# 实现 indexOf
 
 根据`indexOf` 的定义，这里实现了其`Polyfill`版本
 

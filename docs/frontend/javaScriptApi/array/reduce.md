@@ -1,4 +1,4 @@
-## Array.prototype.reduce
+# 实现 reduce
 
 根据**reduce**的定义，实现其`Polyfill` 版本
 

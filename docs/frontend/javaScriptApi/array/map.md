@@ -1,4 +1,4 @@
-## Array.prototype.map
+# 实现 map
 
 ```javascript
 /**

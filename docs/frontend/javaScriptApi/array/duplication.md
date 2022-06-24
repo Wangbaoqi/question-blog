@@ -1,4 +1,4 @@
-## 数组去重
+# 数组去重
 
 数组去重已经是一个老生常谈的话题了，这里再重新温习和稳固一下，之前在[数据结构-数组常见使用场景](https://app.gitbook.com/algorithm/structure/array.html#%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D)中简单学习过，这次全面的攻克掉。
 

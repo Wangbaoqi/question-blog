@@ -1,10 +1,10 @@
-## 数组之间交集、并集、差集
+# 数组之间交集、并集、差集
 
-### 数组的交集
+## 数组的交集
 
 ```javascript
-let a = [1, 2, 3];
 let b = [2, 4, 5];
+let a = [1, 2, 3];
 // result [2]
 ```
 
@@ -14,9 +14,9 @@ let b = [2, 4, 5];
 const arr_mix = a.filter(e => b.includes(e))
 ```
 
-### 数组的并集
-
+## 数组的并集
 ```javascript
+
 let a = [1, 2, 3];
 let b = [2, 4, 5];
 // result [1,2,3,4,5]
@@ -28,7 +28,7 @@ let b = [2, 4, 5];
 const arr_union = [...new Set([...a, ...b])]
 ```
 
-### 数组的差集
+## 数组的差集
 
 ```javascript
 let a = [1, 2, 3];

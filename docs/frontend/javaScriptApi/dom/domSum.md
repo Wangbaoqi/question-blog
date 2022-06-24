@@ -1,4 +1,4 @@
-## DOM树的操作
+# DOM树的操作
 
 * 获取DOM树的节点个数
 * 获取DOM树的最大深度
@@ -29,7 +29,7 @@
 }
 ```
 
-### DOM树的节点总数
+## DOM树的节点总数
 
 遍历DOM树的节点会使用`深度优先遍历`
 
@@ -60,7 +60,7 @@ const computeDOMCount = (dom) => {
 }
 ```
 
-### DOM树的最大深度
+## DOM树的最大深度
 
 ```js
 // DFS 递归实现
@@ -93,7 +93,7 @@ const computeDOMDepth = dom => {
 }
 ```
 
-### DOM树最大子元素个数
+## DOM树最大子元素个数
 
 ```js
 // BFS 
@@ -120,7 +120,7 @@ const computeDOMMaxChildCount = dom => {
 }
 ```
 
-### 同时获取三者
+## 同时获取三者
 
 ```js
 

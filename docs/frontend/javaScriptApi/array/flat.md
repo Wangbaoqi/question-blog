@@ -1,15 +1,15 @@
-## 数组扁平化
+# 数组扁平化
 
 数组扁平化也是常用的一种数组解决方案。
 
-### ES10 flat
+## ES10 flat
 
 ```javascript
 const arr = [1, [2, 3, [4, 5]]]
 arr.flat(Infinity);
 ```
 
-### 递归 + for
+## 递归 + for
 
 ```javascript
 const flatten = (arr) => {
@@ -25,7 +25,7 @@ const flatten = (arr) => {
 }
 ```
 
-### 递归 + Reduce
+## 递归 + Reduce
 
 ```javascript
 const flatten1 = (arr) => {
@@ -35,7 +35,7 @@ const flatten1 = (arr) => {
 }
 ```
 
-### 循环 + stack 
+## 循环 + stack 
 
 ```javascript
 const flatten2 = (arr) => {

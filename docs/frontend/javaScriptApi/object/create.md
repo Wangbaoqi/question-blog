@@ -1,8 +1,4 @@
-
-
 # 实现 Object.create
-
-
 
 `Object.create` 返回一个新对象，该对象的原型为传入参数（参数是对象）
 
@@ -13,7 +9,7 @@ const obj = {
 const newObj = Object.create(obj); // newObj.name 
 ```
 
-### 实现Object.create polyfill
+## 实现Object.create polyfill
 
 ```javascript
 const n_creat = (proto, propertiesObject) => {

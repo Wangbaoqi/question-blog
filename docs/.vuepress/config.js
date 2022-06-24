@@ -105,10 +105,8 @@ module.exports = {
                 '/frontend/JavaScriptApi/object/create.md',
                 '/frontend/JavaScriptApi/object/clone.md',
                 '/frontend/JavaScriptApi/object/new.md',
-                '/frontend/JavaScriptApi/object/instanceof.md',
                 '/frontend/JavaScriptApi/object/inherit.md',
                 '/frontend/JavaScriptApi/object/is.md',
-                '/frontend/JavaScriptApi/object/proxy.md',
 
               ],
             },
@@ -120,7 +118,6 @@ module.exports = {
                 '/frontend/JavaScriptApi/function/curry.md',
                 '/frontend/JavaScriptApi/function/compose.md',
                 '/frontend/JavaScriptApi/function/pipe.md',
-                '/frontend/JavaScriptApi/function/privateVar.md',
               ],
             },
             {
@@ -135,8 +132,7 @@ module.exports = {
                 '/frontend/JavaScriptApi/array/filter.md',
                 '/frontend/JavaScriptApi/array/flat.md',
                 '/frontend/JavaScriptApi/array/duplication.md',
-                '/frontend/JavaScriptApi/array/union.md',
-                '/frontend/JavaScriptApi/array/chaosSort.md',
+                '/frontend/JavaScriptApi/array/union.md',              
               ],
             },
             {
@@ -153,9 +149,7 @@ module.exports = {
               collapsible: true,
               children: [
                 '/frontend/JavaScriptApi/async/promise.md',
-                '/frontend/JavaScriptApi/async/sum_add.md',
                 '/frontend/JavaScriptApi/async/setTimeout.md',
-                '/frontend/JavaScriptApi/async/throttle.md',
               ],
             },
             {
@@ -169,7 +163,7 @@ module.exports = {
               ],
             },
             {
-              text: '场景实现篇',
+              text: '工具实现篇',
               collapsible: true,
               children: [
                 '/frontend/JavaScriptApi/scene/lazyImg.md',

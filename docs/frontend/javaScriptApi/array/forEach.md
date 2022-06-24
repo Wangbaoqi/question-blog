@@ -1,4 +1,4 @@
-### Array.prototype.forEach
+# 实现 forEach
 
 根据forEach的定义，实现其`Polyfill` 版本
 

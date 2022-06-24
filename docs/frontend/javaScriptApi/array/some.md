@@ -1,4 +1,4 @@
-## Array.prototype.some
+# 实现 some
 
 根据**some**的定义，实现其`Polyfill` 版本
 
